@@ -1,5 +1,5 @@
 # Salesforce JDBC Driver | DbSchema Salesforce Designer
-Full compatible JDBC driver provided by [DbSchema Salesforce Designer](https://dbschema.com/database-designer/Salesforce.html).
+Full compatible JDBC driver provided by [DbSchema Salesforce Designer](https://dbschema.com/documentation/salesforce/).
 
 ## Feature List
 
@@ -19,7 +19,7 @@ In our plans - just let us know if you need this:
 [CC-BY-ND - Attribution-NoDerivs](https://creativecommons.org/licenses/by-nd/4.0/).
 The driver is free to use by everyone.
 Code modifications allowed only to the current repository as pull requests
-https://github.com/wise-coders/salesforce-jdbc-driver
+https://github.com/dbschema-pro/jdbc-driver-salesforce
 
 ## How the Driver Works
 

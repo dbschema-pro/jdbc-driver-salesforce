@@ -3,7 +3,7 @@ java = "25"
 slf4j = "2.0.17"
 graal = "24.1.0"
 wisecodersCommonGradle = "30.0.0"
-wisecodersCommonLib = "51.0.0"
+wisecodersCommonLib = "53.0.0"
 wisecodersCommonJdbc = "21.0.0"
 
 
